@@ -1,0 +1,26 @@
+<annotation>
+	<folder>infusomat_space</folder>
+	<filename>img_3.jpg</filename>
+	<path>C:\Users\Brian-Gloekler\Desktop\Hackathon\Images\infusomat_space\img_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BBraun Infusomat Space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>197</ymin>
+			<xmax>508</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>
