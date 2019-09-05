@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hospira abbot plum xl infusion</folder>
+	<filename>hospira abbot plum xl infusion_40.jpg</filename>
+	<path>C:/NS_misc/Hackathons/19.9/Images/hospira_abbot_plum_xl_infusion_2/hospira abbot plum xl infusion/hospira abbot plum xl infusion_40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>135</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plumxl1</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>1</ymin>
+			<xmax>142</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

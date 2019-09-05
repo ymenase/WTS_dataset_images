@@ -1,0 +1,26 @@
+<annotation>
+	<folder>flip2</folder>
+	<filename>hospira abbot plum xl infusion_6__fliph.jpg</filename>
+	<path>C:\Python27\flip2\hospira abbot plum xl infusion_6__fliph.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1397</width>
+		<height>931</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plumxl1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>94</ymin>
+			<xmax>1093</xmax>
+			<ymax>820</ymax>
+		</bndbox>
+	</object>
+</annotation>
